@@ -132,7 +132,7 @@ I design and build interactive experiences where magic, systems, and player emot
         <img src="https://img.shields.io/badge/Status-Active%20Doc-FF5F6D?style=flat-square" />
       </p>
       <p>
-        <i>A structured, step-by-step knowledge base documenting programming languages, core computer science foundations, software architecture patterns, and hands-on exercises using Map of Content (MOC) methodology.</i>
+        <i> 🇬🇧 A structured, step-by-step knowledge base documenting programming languages, core concepts, and hands-on exercises using Map of Content (MOC) methodology.   |  🇪🇸 Una base de conocimiento estructurada y paso a paso que documenta lenguajes de programación, conceptos clave y ejercicios prácticos mediante la metodología Map of Content (MOC). </i>
       </p>
       <p>
         👉 <b><a href="https://github.com/alanfabzlab/Developer-Knowledge-Base">Explore the Vault &rarr;</a></b>
